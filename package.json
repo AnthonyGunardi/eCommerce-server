@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnthonyGunardi/ecommerce-server.git"
+    "url": "git+https://github.com/AnthonyGunardi/eCommerce-server.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anthony Gunardi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnthonyGunardi/ecommerce-server/issues"
+    "url": "https://github.com/AnthonyGunardi/eCommerce-server/issues"
   },
-  "homepage": "https://github.com/AnthonyGunardi/ecommerce-server#readme",
+  "homepage": "https://github.com/AnthonyGunardi/eCommerce-server#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",

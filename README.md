@@ -1,15 +1,15 @@
 # ecommerce-server
-Server for "AnTz Shop" e-commerce CMS & Customer Client app, created using node.js, express, sequelize, postgres.
+Server for "AnTz Shop" e-commerce CMS & Customer Client app, created using node.js, express, sequelize, postgreSQL.
 
 
 ## URL:
 https://ecommerce-glasgow-server.herokuapp.com
 
 #### Link for CMS Client:
-[AnTz Shop - CMS Client](https://github.com/AnthonyGunardi/ecommerce-client-CMS)
+[AnTz Shop - CMS Client](https://github.com/AnthonyGunardi/eCommerce-client-CMS)
 
 #### Link Customer Client:
-[AnTz Shop - Customer Client](https://github.com/AnthonyGunardi/ecommerce-client-customer)
+[AnTz Shop - Customer Client](https://github.com/AnthonyGunardi/eCommerce-client-customer)
 
 
 ## List of available endpoints:
